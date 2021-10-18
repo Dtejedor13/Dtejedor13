@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Dtejedor13
+- 👀 I’m interested in programming with C# 
+- 🌱 I’m currently learning C#, Vuejs, JavaScript, CSS, Unity, C++, Java
