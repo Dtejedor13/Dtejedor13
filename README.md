@@ -1,7 +1,7 @@
 # About me
 Hey, I'm currently a trainee developer, but I'm working for fun on many projects.
 I am mainly a c# backend developer, but I can also some JavaScript based frameworks like VueJS or even game development in unity.
-In my public repositories you will find some projects as tools for freely usage if u want :)
+In my public repositories you will find some projects as tools for freely usage except games if u want :)
 As example, a configured asp.net API template for services or tools like base64 converter and animator for some niche usages.
 
 ## Templates 
