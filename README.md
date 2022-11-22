@@ -6,7 +6,6 @@ As example, a configured asp.net API template for services or tools like base64 
 
 ## Templates 
 - <a href="https://github.com/Dtejedor13/UniveralApi_V2">ASP.Net API Template V2</a>
-- <a href="https://github.com/Dtejedor13/UniversalAPI_V1">ASP.Net API Template V1</a>
 
 ## Tools 
 - <a href="https://github.com/Dtejedor13/Base64Converter">Base64 Converter</a>
