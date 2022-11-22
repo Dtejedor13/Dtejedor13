@@ -11,8 +11,5 @@ As example, a configured asp.net API template for services or tools like base64 
 - <a href="https://github.com/Dtejedor13/Base64Converter">Base64 Converter</a>
 - <a href="https://github.com/Dtejedor13/Base64ToImageAnimator">Base64 Animator with WPF</a>
 
-## Systems
-- <a href="https://github.com/Dtejedor13/DTSBox">DTSBox (testing enviroment with dependeny injection)</a>
-
 ## Games and Libaries
 - <a href="https://github.com/Dtejedor13/Unity_core_libs">Unity Core Libaries</a>
