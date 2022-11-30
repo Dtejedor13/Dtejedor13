@@ -3,8 +3,6 @@ Hey, I'm currently a Software developer, but I'm working for fun on many project
 I am mainly a c# backend developer, but I also have experience with some JavaScript based frameworks like VueJS or even with game development in unity.
 In my public repositories you will find some tools or libraries for freely usage if you want.
 
-I like to get help and i also like to help other, so let's help each other :)
-
 ## Templates 
 - WIP <a href="https://github.com/Dtejedor13/UniveralApi_V2">ASP.Net API Template V2</a>
 
