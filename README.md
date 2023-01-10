@@ -1,6 +1,5 @@
 # About me
-Hey, I'm currently a Software developer, but I'm working for fun on many projects.
-I am mainly a c# backend developer, but I also have experience with some JavaScript based frameworks like VueJS or even with game development in unity.
+Hey, I'm currently a Software developer and, i am mainly a c# backend developer, but I also have experience with some JavaScript based frameworks like VueJS or even with game development in unity.
 In my public repositories you will find some tools or libraries for freely usage if you want.
 
 ## Templates 
