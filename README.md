@@ -1,9 +1,7 @@
 # About me
-Hey, I'm a junior software developer and, i work mainly with c# at backend, but i also have experience with some JavaScript based frameworks like VueJS or even with game development in unity.
-In my public repositories you will find some tools or libraries for freely usage if you want.
-
-## Templates 
-- WIP <a href="https://github.com/Dtejedor13/UniveralApi_V2">ASP.Net API Template V2</a>
+Hey, I'm a junior software developer and, i work mainly with c# at backend, but i have also some experience with JjvaScript based frameworks like vueJS.
+Im developing also just for personal interest and improvment of my skills games in unity.
+In my public repositories you will find some tools or samples for freely usage.
 
 ## Tools 
 - <a href="https://github.com/Dtejedor13/Base64Converter">Base64 Converter</a>
