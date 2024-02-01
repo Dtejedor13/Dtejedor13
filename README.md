@@ -7,5 +7,5 @@ In my public repositories you will find some tools or samples for freely usage.
 - <a href="https://github.com/Dtejedor13/Base64Converter">Base64 Converter</a>
 - <a href="https://github.com/Dtejedor13/Base64ToImageAnimator">Base64 Animator with WPF</a>
 
-## Games and Libaries
-- WIP  <a href="https://github.com/Dtejedor13/Unity_core_libs">Unity Core Libaries</a>
+## Games and Libraries
+- WIP  <a href="https://github.com/Dtejedor13/Unity_core_libs">Unity Core Libraries</a>
