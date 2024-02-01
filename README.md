@@ -1,5 +1,5 @@
 # About me
-Hey, I'm a junior software developer and, i work mainly with c# at backend, but i have also some experience with JjvaScript based frameworks like vueJS.
+Hey, I'm a junior software developer and, i work mainly with c# at backend, but i have also some experience with JavaScript based frameworks like vueJS.
 Im developing also just for personal interest and improvment of my skills games in unity.
 In my public repositories you will find some tools or samples for freely usage.
 
